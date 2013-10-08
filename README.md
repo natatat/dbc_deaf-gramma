@@ -1,0 +1,1 @@
+an exercise in RSPEC, lez RED GREEN REFACTOR
